@@ -5,5 +5,5 @@ class Artist
     @name = name
   end
   
-  beyonce = Artist.new()
+  beyonce = Artist.new("Beyonce")
 end
